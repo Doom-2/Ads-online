@@ -8,9 +8,10 @@
       "last_login": "2022-02-20 13:34:16.332479+03:00",
       "phone": "+79217777777",
       "role": "user",
-      "first_name":"Иван",
+      "first_name":"Петр",
       "last_name": "Иванов",
-      "is_active": true
+      "is_active": true,
+      "image": "user_avatars/Ivanov.jpg"
     }
   },
   {
@@ -22,9 +23,10 @@
       "last_login": "2022-02-20 13:34:16.332479+03:00",
       "phone": "+79218888888",
       "role": "user",
-      "first_name":"Петр",
-      "last_name": "Петров",
-      "is_active": true
+      "first_name":"Дарья",
+      "last_name": "Петрова",
+      "is_active": true,
+      "image": "user_avatars/Petrova.jpg"
     }
   },
     {
@@ -34,11 +36,12 @@
       "email": "test3@skypro.ru",
       "password": "pbkdf2_sha256$260000$3bo3p1RBL9USUYt4njQGst$VABz0+ssAtcd6WS4s8Uf55iOlu0vLcyb9mAOPwfc9nU=",
       "last_login": "2022-02-20 13:34:16.332479+03:00",
-      "phone": "+7999999999",
+      "phone": "+79999999999",
       "role": "user",
-      "first_name":"Петр",
-      "last_name": "Петров",
-      "is_active": true
+      "first_name":"Николай",
+      "last_name": "Баринов",
+      "is_active": true,
+      "image": "user_avatars/Barinov.jpg"
     }
   },
     {
@@ -48,11 +51,12 @@
       "email": "test4@skypro.ru",
       "password": "pbkdf2_sha256$260000$3bo3p1RBL9USUYt4njQGst$VABz0+ssAtcd6WS4s8Uf55iOlu0vLcyb9mAOPwfc9nU=",
       "last_login": "2022-02-20 13:34:16.332479+03:00",
-      "phone": "+79217777777",
+      "phone": "+79215555478",
       "role": "user",
       "first_name":"Сергей",
       "last_name": "Стародубцев",
-      "is_active": true
+      "is_active": true,
+      "image": "user_avatars/Starodubcev.jpg"
     }
   },
   {
@@ -62,11 +66,42 @@
       "email": "admin@skypro.ru",
       "password": "pbkdf2_sha256$260000$3bo3p1RBL9USUYt4njQGst$VABz0+ssAtcd6WS4s8Uf55iOlu0vLcyb9mAOPwfc9nU=",
       "last_login": "2022-02-20 13:34:16.332479+03:00",
-      "phone": "+79217777777",
+      "phone": "+79214445577",
       "role": "admin",
-      "first_name": "Админ",
-      "last_name": "Петров",
-      "is_active": true
+      "first_name": "Анатолий",
+      "last_name": "Постолит",
+      "is_active": true,
+      "image": "user_avatars/Postolit.jpg"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 6,
+    "fields": {
+      "email": "test5@skypro.ru",
+      "password": "pbkdf2_sha256$390000$tErSORPsNgTv796QsIB3gV$+tGb4NNDp+DP+EILymB0F8fXgG4WZrxNhFSbW6di+tY=",
+      "last_login": "2022-12-08 17:48:45.244519 +03:00",
+      "phone": "+79004597896",
+      "role": "user",
+      "first_name": "Oleg",
+      "last_name": "Kalugin",
+      "is_active": true,
+      "image": "user_avatars/Kalugin.jpeg"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 7,
+    "fields": {
+      "email": "test6@skypro.ru",
+      "password": "pbkdf2_sha256$390000$tErSORPsNgTv796QsIB3gV$+tGb4NNDp+DP+EILymB0F8fXgG4WZrxNhFSbW6di+tY=",
+      "last_login": "2022-12-08 16:52:55.904907 +03:00",
+      "phone": "+79805488600",
+      "role": "user",
+      "first_name": "Mancubus",
+      "last_name": "Rassel",
+      "is_active": true,
+      "image": "user_avatars/Mancubus.jpg"
     }
   }
 ]

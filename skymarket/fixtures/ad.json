@@ -3,23 +3,23 @@
     "model": "ads.ad",
     "pk": 1,
     "fields": {
-      "image": null,
+      "image": "ad_images/pc.jpg",
       "title": "Компьютер недорого",
-      "price": 10000,
+      "price": 43000,
       "author": 1,
-      "created_at": "2022-02-03 12:10:16.332479+03:00",
-      "description": "Компьютер недорого"
+      "created_at": "2022-02-08 09:05:16.332000+00:00",
+      "description": "Компьютер недорого и мощный.\nGTA V на максималках 60fps,\nкарточка 3050Ti"
     }
   },
   {
     "model": "ads.ad",
     "pk": 2,
     "fields": {
-      "image": null,
+      "image": "ad_images/closet.jpg",
       "title": "Шкаф, почти новый",
-      "price": 10000,
+      "price": 7200,
       "author": 1,
-      "created_at": "2022-02-03 12:10:16.332479+03:00",
+      "created_at": "2022-04-07 15:25:11.332000+00:00",
       "description": "Покупал в шведском магазине"
     }
   },
@@ -27,116 +27,145 @@
     "model": "ads.ad",
     "pk": 3,
     "fields": {
-      "image": null,
-      "title": "Отдам даром",
-      "price": 10000,
+      "image": "ad_images/dsp.jpeg",
+      "title": "ДСП",
+      "price": 1,
       "author": 1,
-      "created_at": "2022-02-03 12:10:16.332479+03:00",
+      "created_at": "2022-01-09 12:30:22.332000+00:00",
       "description": "Самовывоз за ваш счет"
     }
   },{
     "model": "ads.ad",
     "pk": 4,
     "fields": {
-      "image": null,
+      "image": "ad_images/car.jpg",
       "title": "Автомобиль",
-      "price": 10000,
+      "price": 260000,
       "author": 2,
-      "created_at": "2022-02-03 12:10:16.332479+03:00",
-      "description": "Салонам не звонить!"
+      "created_at": "2021-08-18 14:54:35.332000+00:00",
+      "description": "Салонам не звонить! Продам сам.\nСостояние бодрячком, мощная и экономичная,\nрулится и едет."
     }
   },{
     "model": "ads.ad",
     "pk": 5,
     "fields": {
-      "image": null,
+      "image": "ad_images/kitchen_set.jpg",
       "title": "Кухонный гарнитур",
-      "price": 10000,
+      "price": 37000,
       "author": 2,
-      "created_at": "2022-02-03 12:10:16.332479+03:00",
+      "created_at": "2022-06-15 19:32:27.332000+00:00",
       "description": "Модульный, б/у"
     }
   },{
     "model": "ads.ad",
     "pk": 6,
     "fields": {
-      "image": null,
+      "image": "ad_images/stove.jpg",
       "title": "Плита",
-      "price": 10000,
+      "price": 16000,
       "author": 2,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2021-10-28 20:24:48.332000+00:00",
+      "description": "Поверхность чистая, без царапин"
     }
   },
   {
     "model": "ads.ad",
     "pk": 7,
     "fields": {
-      "image": null,
+      "image": "ad_images/washing_machine.jpg",
       "title": "Стиральная машина",
-      "price": 10000,
+      "price": 8500,
       "author": 3,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2022-02-03 09:10:16.332000+00:00",
+      "description": "Надежная, полностью в рабочем состоянии"
     }
   },{
     "model": "ads.ad",
     "pk": 8,
     "fields": {
-      "image": null,
+      "image": "ad_images/armchair.jpeg",
       "title": "Кресло",
-      "price": 10000,
+      "price": 12700,
       "author": 3,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2021-07-14 15:24:21.332000+00:00",
+      "description": "Удобное, в нем расслабляет"
     }
   },
   {
     "model": "ads.ad",
     "pk": 9,
     "fields": {
-      "image": null,
+      "image": "ad_images/laptop.jpg",
       "title": "Ноутбук",
-      "price": 10000,
+      "price": 48000,
       "author": 3,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2021-07-11 18:10:16.332000+00:00",
+      "description": "i5-9550, 9th Gen, GTX 3060 Ti, 16Gb RAM, IPS"
     }
   },{
     "model": "ads.ad",
     "pk": 10,
     "fields": {
-      "image": null,
+      "image": "ad_images/doom_3.jpg",
       "title": "Игра",
-      "price": 10000,
+      "price": 1800,
       "author": 4,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2020-03-10 09:10:16.332000+00:00",
+      "description": "Лицензия"
     }
   },{
     "model": "ads.ad",
     "pk": 11,
     "fields": {
-      "image": null,
+      "image": "ad_images/skystation.jpg",
       "title": "SkyStation",
-      "price": 10000,
+      "price": 75000,
       "author": 4,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2021-05-03 14:06:08.332000+00:00"
     }
   },{
     "model": "ads.ad",
     "pk": 12,
     "fields": {
-      "image": null,
+      "image": "ad_images/tires.jpg",
       "title": "Колеса",
-      "price": 10000,
+      "price": 15000,
       "author": 4,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2021-11-07 19:16:47.332000+00:00",
+      "description": "265/65 R17. Шипы 80%, боковина прочная, Toyo"
     }
   },{
     "model": "ads.ad",
     "pk": 13,
     "fields": {
-      "image": null,
+      "image": "ad_images/seedlings.jpg",
       "title": "Рассада",
-      "price": 10000,
+      "price": 800,
       "author": 4,
-      "created_at": "2022-02-03 12:10:16.332479+03:00"
+      "created_at": "2022-05-20 13:36:53.332000+00:00",
+      "description": "Помидоры красные, желтые. Очень вкусные."
+    }
+  },{
+    "model": "ads.ad",
+    "pk": 14,
+    "fields": {
+      "image": "ad_images/bike.jpg",
+      "title": "Велосипед",
+      "price": 17000,
+      "author": 6,
+      "created_at": "2021-06-07 12:47:29.332000+00:00",
+      "description": "Stels. Надежный, удобный, крепкий."
+    }
+  },{
+    "model": "ads.ad",
+    "pk": 15,
+    "fields": {
+      "image": "ad_images/photo_camera.jpeg",
+      "title": "Фотоаппарат Canon G7X Mark II",
+      "price": 45000,
+      "author": 1,
+      "created_at": "2022-12-08 18:45:49.402871+00:00",
+      "description": "Четкое изображение, сенсорный дисплей. Японский"
     }
   }
 ]
