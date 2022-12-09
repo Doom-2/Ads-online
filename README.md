@@ -1,6 +1,6 @@
 # ADS-ONLINE
 
-### Лучшая платформа для продажи вещей
+### It's easy to sale with us
 
 Contains the following features:
 1. User authentication and authorization
