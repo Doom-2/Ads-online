@@ -1,6 +1,6 @@
 # ADS-ONLINE
 
-### It's easy to sale with us. Try it once, enjoy it further
+### Try it once, enjoy it further
 ### Django based bulletin board
 [ads-online.ml](http://ads-online.ml)
 
