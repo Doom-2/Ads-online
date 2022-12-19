@@ -1,6 +1,6 @@
 # ADS-ONLINE
 
-### It's easy to sale with us
+### It's easy to sale with us. Just try
 
 Features:
 1. User authentication and authorization
