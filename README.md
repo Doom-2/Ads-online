@@ -2,7 +2,7 @@
 
 ### It's easy to sale with us
 
-Contains the following features:
+Features:
 1. User authentication and authorization
 
 2. User roles: admin, user
